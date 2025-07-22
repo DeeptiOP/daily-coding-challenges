@@ -11,7 +11,8 @@ Welcome to my daily coding practice repository! This is where I solve coding pro
 ## 📅 Progress Tracker
 
 ### January 2025
-- **Day 1** (2025-01-23): Two Sum Problem - Array manipulation and hash maps
+- **Day 1** (2025-01-23): Two Sum Problem - Array manipulation and hash maps ✅
+- **Day 2** (2025-01-24): Reverse Integer Problem - Mathematical digit manipulation 🚀
 - [More days to be added...]
 
 ## 🔧 Languages Used
@@ -54,10 +55,10 @@ daily-coding-challenges/
 - [AlgoExpert](https://algoexpert.io)
 
 ## 📊 Statistics
-- **Total Problems Solved**: 1
-- **Current Streak**: 1 day
+- **Total Problems Solved**: 2
+- **Current Streak**: 2 days
 - **Languages Used**: JavaScript, Python
-- **Favorite Topic**: Array Manipulation
+- **Favorite Topics**: Array Manipulation, Mathematical Algorithms
 
 ---
 
